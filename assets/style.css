@@ -1,0 +1,30 @@
+body {
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  font-size: 16px;
+  line-height: 2;
+  background-color: #f1f1f1;
+  color: #424242;
+}
+
+h1, h2, h3 {
+  font-weight: bold;
+}
+
+h1, h2, h3, p {
+  margin: 16px 0;
+}
+
+a {
+  color: #428bca;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #2a6496;
+  text-decoration: underline;
+}
+
+#main {
+  width: 640px;
+  margin: auto;
+}
