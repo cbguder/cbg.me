@@ -13,6 +13,8 @@ I'm a software engineer, originally from Turkey, working and living in San Franc
 
 [FLAC2iTunes][] is a [FLAC][] importer for iTunes.
 
+I also contribute to [Cedar][] and [thrust][].
+
 ### Completed/Abandoned Projects
 
 [A Better S/MIME GUI][a-better-s-mime-gui] is a GUI add-on for Thunderbird, designed to inform the users more on the limitations of digital (S/MIME) signatures. [Homepage][a-better-s-mime-gui-homepage] / [Publication][a-better-s-mime-gui-publication].
@@ -47,6 +49,7 @@ Site built using [Jekyll][] and hosted on [Github Pages][github-pages].
 [a-better-s-mime-gui]: https://github.com/cbguder/a-better-s-mime-gui
 [aes-on-cuda]: https://github.com/cbguder/aes-on-cuda
 [app-net]: https://alpha.app.net/cbguder
+[cedar]: https://github.com/pivotal/cedar
 [cuda]: http://www.nvidia.com/object/cuda_home_new.html
 [eksi-sozluk]: https://eksisozluk.com
 [elrio-gem]: http://rubygems.org/gems/elrio
@@ -66,6 +69,7 @@ Site built using [Jekyll][] and hosted on [Github Pages][github-pages].
 [practises]: https://github.com/cbguder/practises
 [rutorrent]: https://github.com/cbguder/rutorrent
 [stack-overflow]: http://stackoverflow.com/users/2119/can-berk-guder
+[thrust]: https://github.com/pivotal/thrust
 [trap]: https://github.com/cbguder/trap
 [twitter]: https://twitter.com/cbguder
 [utorrent]: http://www.utorrent.com
