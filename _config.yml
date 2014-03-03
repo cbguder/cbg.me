@@ -1,2 +1,3 @@
 markdown: redcarpet
 pygments: true
+exclude: ["CNAME", "Gemfile", "Gemfile.lock"]
