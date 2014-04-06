@@ -9,6 +9,8 @@ I'm a software engineer, originally from Turkey, living in San Francisco. I work
 
 ## Projects
 
+[BestPractices][] is a collection of things I consider to be best practices in test-driven iOS development.
+
 [elrio][] is a cap inset detector & optimizer for resizable UIKit assets. [Gem][elrio-gem].
 
 [FLAC2iTunes][] is a [FLAC][] importer for iTunes.
@@ -49,6 +51,7 @@ Site built using [Jekyll][] and hosted on [Github Pages][github-pages].
 [a-better-s-mime-gui]: https://github.com/cbguder/a-better-s-mime-gui
 [aes-on-cuda]: https://github.com/cbguder/aes-on-cuda
 [app-net]: https://alpha.app.net/cbguder
+[bestpractices]: https://github.com/cbguder/BestPractices
 [cedar]: https://github.com/pivotal/cedar
 [cuda]: http://www.nvidia.com/object/cuda_home_new.html
 [eksi-sozluk]: https://eksisozluk.com
