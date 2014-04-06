@@ -5,7 +5,7 @@ layout: default
 
 ## About
 
-I'm a software engineer, originally from Turkey, working and living in San Francisco. I work at [Pivotal Labs][pivotal-labs]. [This][photo] is what I look like.
+I'm a software engineer, originally from Turkey, living in San Francisco. I work at [Pivotal Labs][pivotal-labs]. [This][photo] is what I look like.
 
 ## Projects
 
