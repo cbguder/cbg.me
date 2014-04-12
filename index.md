@@ -15,7 +15,7 @@ I'm a software engineer, originally from Turkey, living in San Francisco. I work
 
 [FLAC2iTunes][] is a [FLAC][] importer for iTunes.
 
-I also contribute to [Cedar][] and [thrust][].
+I also contribute to [Cedar][], [sprout][] and [thrust][].
 
 ### Completed/Abandoned Projects
 
@@ -71,6 +71,7 @@ Site built using [Jekyll][] and hosted on [Github Pages][github-pages].
 [pivotal-labs]: http://pivotallabs.com
 [practises]: https://github.com/cbguder/practises
 [rutorrent]: https://github.com/cbguder/rutorrent
+[sprout]: https://github.com/pivotal-sprout
 [stack-overflow]: http://stackoverflow.com/users/2119/can-berk-guder
 [thrust]: https://github.com/pivotal/thrust
 [trap]: https://github.com/cbguder/trap
