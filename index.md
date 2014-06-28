@@ -35,6 +35,8 @@ I also contribute to [Cedar][], [sprout][] and [thrust][].
 
 [trap][] is an [ns2][] tracefile parser and analyzer.
 
+I also wrote a master's thesis: [Efficient and Secure Delivery of Area-Persistent Safety Messages in Vehicular Ad Hoc Networks][thesis].
+
 ## Links
 
 [App.net][app-net]  
@@ -73,6 +75,7 @@ Site built using [Jekyll][] and hosted on [Github Pages][github-pages].
 [rutorrent]: https://github.com/cbguder/rutorrent
 [sprout]: https://github.com/pivotal-sprout
 [stack-overflow]: http://stackoverflow.com/users/2119/can-berk-guder
+[thesis]: http://research.sabanciuniv.edu/19088/
 [thrust]: https://github.com/pivotal/thrust
 [trap]: https://github.com/cbguder/trap
 [twitter]: https://twitter.com/cbguder
