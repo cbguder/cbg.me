@@ -15,7 +15,7 @@ I'm a software engineer, originally from Turkey, living in San Francisco. I work
 
 [FLAC2iTunes][] is a [FLAC][] importer for iTunes.
 
-I also contribute to [Cedar][], [sprout][] and [thrust][].
+I also contribute to [Cedar][], [deferred][], [homebrew][], [sprout][] and [thrust][].
 
 ### Completed/Abandoned Projects
 
@@ -56,12 +56,14 @@ Site built using [Jekyll][] and hosted on [Github Pages][github-pages].
 [bestpractices]: https://github.com/cbguder/BestPractices
 [cedar]: https://github.com/pivotal/cedar
 [cuda]: http://www.nvidia.com/object/cuda_home_new.html
+[deferred]: https://github.com/kseebaldt/deferred
 [eksi-sozluk]: https://eksisozluk.com
 [elrio-gem]: http://rubygems.org/gems/elrio
 [elrio]: https://github.com/cbguder/elrio
 [flac2itunes]: https://github.com/cbguder/flac2itunes
 [flac]: https://xiph.org/flac/
 [github-pages]: http://pages.github.com
+[homebrew]: https://github.com/Homebrew/homebrew
 [ia-writer]: http://www.iawriter.com/
 [jekyll]: http://jekyllrb.com
 [linkedin]: http://www.linkedin.com/in/cbguder
