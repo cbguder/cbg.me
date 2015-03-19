@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/cbguder
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://cbg.me
+  * I am cbguder (https://keybase.io/cbguder) on keybase.
+  * I have a public key with fingerprint AAC4 1E48 1D4C 5544 EA9C  B12D F715 FC27 D861 3800
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.7"
+        },
+        "key": {
+            "fingerprint": "aac41e481d4c5544ea9cb12df715fc27d8613800",
+            "host": "keybase.io",
+            "key_id": "F715FC27D8613800",
+            "uid": "2df592fb1cbf5056e459e57b04d08900",
+            "username": "cbguder"
+        },
+        "merkle_root": {
+            "ctime": 1426793080,
+            "hash": "f558fae697f297d8e4967d1ffddb943bf3e0dc6896f43612bf644fdd1a7a107a5fe7ea834e074e8ebdd8429c076c07189adec280dc1589952d1fc166c774a5d9",
+            "seqno": 179716
+        },
+        "service": {
+            "hostname": "cbg.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1426793165,
+    "expire_in": 157680000,
+    "prev": "d11e3e377e645a84132e05ad04434460d30466268edcdfca104a466580e6a4a6",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFVkntMHFUUxpctUN7Q8ipBTBkpJrouM7N3XkAogm2V2saVGlJtus7jDswu7Gxn
+ly2IPMRopISmpe3yjNCHNdIGeQkUE0o1JpCKUtIoLWposFUERAwqtojOIAb7xyR3
+zv3d737fOfdE8Cad3uuPyJXHJ1ha53V9htO9FIiMliCcLBQjySUIny9Bu0tb2dkC
+iCQjNljMsU5olOTtdlmARqtz+zpjQNxQcUqyXaVQI2WkkFKDhmuHRcmeCxWHImla
+CMvyAIOAxgTAEwQAkGV4DsMFkcIIkccpgSYxE42iqmSe7HQ9dCuypmmRBLW6W+V3
+Z+LUMxt84dqGKkUwuMhhPCcSKEFCQDCQoDgUCCjN/As6obIeiedyCwWoaHYLoGLL
+hxZFltcy8y5JIzCAkxRjQmlUNcQ689QzIkHQIgtJhhJxRjUMAUNSAiaKgsAxwMSJ
+JogKPEkzpAhMJIZzIgmAuomxFIuhFEuIkIIsbQIQpQCkIScINMAZHqVI9cNohhUg
+j9OqBkbQDEPgqjaPkSRPUYAlBEZN4IRH7LJqjmIojCzV/hW3xEPNt9a1jXBGdWFA
+HIrsknk5X63luVyOZC2uq9ihMUchZ1k/fdHCSXZBndb/x4mp6MOtwEjCgMAih6RA
+i6QRBEWqA0BR7R7oVjUFDIMmaKIoSAKCpQFmwiFKsAIKgAkAEhVMKCBJnKShwAsi
+rzYFsGqBoFFIsoAlNwKaVJ9srirplHLtrKtQgUhplf4Rb52XXufro9feqy7AP+y/
+Rxz5WOhKwI5tEXmxkyeXFoLm7j+3umu4MXO+cWGw8OUWZ9zea53vfTO4J6FjT7uf
+7e5pMdFoNVcwLX9/3HAm19o75d+cNh+7mph1+Hpo0w/ZYe3lY5OlOXeKn7/EVIa5
+6ldtPeNTN2b8dnWFB6UbZ+i5rcEPbjUFHFhswjzm7zNv9324cjlBf/bNCwdbY3zu
+NYz0rnhzgX+mV9fFDzF9kdYXfInR16iBsJq4cDbmysWgDz5KmCsruvR1vJz4VUhc
+xas17/TvvN3oicqoLqgp2nRgDJ2PkX0C3pr9Iud+3oPNNkd9wnR6cTN+fEvPYvuX
+qafByPlz24Kzf38xajz1rn7Euj/c3FO9rOuK+ORCm3eDu3rHj++/MeFbnrQwhLZm
+L0b8Oro/4vLNAR+vfv+STxeXTpi9e+xi99mYe6thZXJOdH1n+l+zjUdPGZe+VZ5K
+z5kat7Ud+ewn1IOdiTbXT3QORozVpQyYS6oOWTuyxCct+7pulZUN+XkOKwc9nvPu
+xp7Qm4vH0451R53aXGUO8TxheDRtuby9LnRMjn9ayoyfyNcfSno30Op5NtYnI2nr
+bz+P1g6nMr+sNmUs771z9ZwtrMKzhVMyKlP6WwM/7xjs6h5PrZ2O3hd8coS5svz2
+bGVISNO14lqyypKiz8ntNdQXNPa3vOIOyLrRedXwuq1vEi31/W4nnFaGm5fbQv8B
+=120h
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cbguder
+
+==================================================================
