@@ -39,7 +39,6 @@ I also wrote a master's thesis: [Efficient and Secure Delivery of Area-Persisten
 
 ## Links
 
-[App.net][app-net]  
 [LinkedIn][]  
 [Stack Overflow][stack-overflow]  
 [Twitter][]
@@ -52,7 +51,6 @@ Site built using [Jekyll][] and hosted on [Github Pages][github-pages].
 [a-better-s-mime-gui-publication]: http://dx.doi.org/10.1016/j.cose.2008.09.003
 [a-better-s-mime-gui]: https://github.com/cbguder/a-better-s-mime-gui
 [aes-on-cuda]: https://github.com/cbguder/aes-on-cuda
-[app-net]: https://alpha.app.net/cbguder
 [bestpractices]: https://github.com/cbguder/BestPractices
 [cedar]: https://github.com/pivotal/cedar
 [cuda]: http://www.nvidia.com/object/cuda_home_new.html
