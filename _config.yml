@@ -1,3 +1,0 @@
-markdown: redcarpet
-highlighter: pygments
-exclude: ["CNAME", "Gemfile", "Gemfile.lock"]
