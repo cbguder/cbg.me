@@ -6,7 +6,7 @@ body {
   color: #424242;
 }
 
-h1 {
+h1, h2 {
   font-weight: 700;
 }
 
@@ -20,10 +20,10 @@ a:hover {
   text-decoration: underline;
 }
 
-#main {
+main {
   margin: 27px 36px;
 }
 
-#bio, #links {
+section {
   margin: 27px 0;
 }
