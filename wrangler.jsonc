@@ -5,12 +5,6 @@
   "assets": {
     "directory": "./public"
   },
-  "routes": [
-    {
-      "pattern": "cbg.me",
-      "custom_domain": true
-    }
-  ],
   "observability": {
     "enabled": true
   }
